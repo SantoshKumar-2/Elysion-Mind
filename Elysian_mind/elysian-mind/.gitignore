@@ -33,3 +33,6 @@ lerna-debug.log*
 
 # Others
 coverage/
+README.md
+package-lock.json
+package.json
