@@ -32,7 +32,11 @@ lerna-debug.log*
 *.sw?
 
 # Others
-coverage/
-README.md
+coverage/ 
+
+# Ignore package files
 package-lock.json
 package.json
+
+# ⬇️ ADD THIS LINE
+!README.md
